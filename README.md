@@ -47,15 +47,12 @@
 ### Local Installation
 
 
-1. Clone the repo
-   ```sh
-   git clone https://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@github.com/sunlyhuor/sala_final.git
-   ```
-2. Install NPM packages(Optional)
+
+1. Install NPM packages(Optional)
    ```sh
    npm install
    ```
-3. Start tailwindcss (Optional)
+2. Start tailwindcss (Optional)
    ```sh
    npm run dev
    ```
